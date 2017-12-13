@@ -1,0 +1,8 @@
+body {
+  /*右下に画像を追加*/
+  background: white url("images/background.jpeg") no-repeat right bottom;
+}
+
+li a {
+  color: green;
+}
