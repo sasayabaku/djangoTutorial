@@ -1,9 +1,19 @@
-
-## django REST Framework
+django REST Framework
 
 [Qiitaの記事](https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8#api動作確認)をベースにdjangoのREST APIのフレームワークを実装．
 
 ![rest画面](./docs/apiroot.png)
+
+## 動作環境
+### OS
+MacOS Sierra 10.12.6  
+Ubuntu 16.04 LTE
+
+### Library
+Django == 1.11.7  
+django-filter == 1.1.0  
+django-filters == 0.2.1  
+djangorestframework == 3.7.3  
 
 ## Admin
 User: rest  
