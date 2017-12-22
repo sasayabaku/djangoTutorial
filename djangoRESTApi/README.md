@@ -4,6 +4,8 @@ django REST Framework
 
 ![rest画面](./docs/apiroot.png)
 
+`confFile`にapache2の設定ファイルを格納(Ubuntu)
+
 ## 動作環境
 ### OS
 MacOS Sierra 10.12.6  
